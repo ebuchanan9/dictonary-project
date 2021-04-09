@@ -12,7 +12,7 @@ function App() {
         <Dictionary />
       </main>
       <footer className="text-center">
-        <small>Coded by <a href="https://www.linkedin.com/in/erin-buchanan-lmsw-ba2a2b160/">Erin Buchanan</a></small>
+        <small>Coded by <a href="https://www.linkedin.com/in/erin-buchanan-lmsw-ba2a2b160/" target="_blank" rel="noreferrer">Erin Buchanan</a></small>
       </footer>
       </div>
     </div>

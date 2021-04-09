@@ -6,12 +6,13 @@ function App() {
     <div className="App">
       <div className="container">
       <header className="App-header">
+        <h1 className="text-center">Dictionary</h1>
       </header>
       <main>
         <Dictionary />
       </main>
       <footer className="text-center">
-        Coded by <a href="https://www.linkedin.com/in/erin-buchanan-lmsw-ba2a2b160/">Erin Buchanan</a>
+        <small>Coded by <a href="https://www.linkedin.com/in/erin-buchanan-lmsw-ba2a2b160/">Erin Buchanan</a></small>
       </footer>
       </div>
     </div>
